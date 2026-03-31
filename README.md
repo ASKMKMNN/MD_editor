@@ -4,7 +4,7 @@
 ## Core Features / 核心特性
 
 - No installation required, ready to use immediately, and friendly to run in corporate environments.Runs 100% locally in Edge with zero data tracking.
-  免安装，直接使用，在公司环境中运行友好。100% 本地运行，数据零上传，Edge 浏览器完美适配。
+免安装，直接使用，在公司环境中运行友好。100% 本地运行，数据零上传，Edge 浏览器完美适配。
 
 - Clean Editing: Paste images from Excel/Screenshots into an invisible data zone.
   纯净编辑：支持粘贴 Excel/截图图片并自动隐匿乱码，正文无负担。
