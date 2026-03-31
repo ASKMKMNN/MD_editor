@@ -4,16 +4,16 @@
 ## Core Features / 核心特性
 
 - No installation required, ready to use immediately, and friendly to run in corporate environments.Runs 100% locally in Edge with zero data tracking.
-- 免安装，直接使用，在公司环境中运行友好。100% 本地运行，数据零上传，Edge 浏览器完美适配。
+  免安装，直接使用，在公司环境中运行友好。100% 本地运行，数据零上传，Edge 浏览器完美适配。
 
 - Clean Editing: Paste images from Excel/Screenshots into an invisible data zone.
-- 纯净编辑：支持粘贴 Excel/截图图片并自动隐匿乱码，正文无负担。
+  纯净编辑：支持粘贴 Excel/截图图片并自动隐匿乱码，正文无负担。
 
 - Drag & Drop Ready: Open .md files or restore .json configs by simply dropping them in.
-- 便捷拖拽：支持将 .md 文件或备份 .json 拖入界面直接打开或恢复数据。
+  便捷拖拽：支持将 .md 文件或备份 .json 拖入界面直接打开或恢复数据。
 
 - Workspace Persistence: Sync history and favorites to your local disk via folder access.
-- 物理存盘：通过文件夹授权将配置存入硬盘，版本更新不丢数据。
+  物理存盘：通过文件夹授权将配置存入硬盘，版本更新不丢数据。
 
 - CJK Optimized: Perfect font rendering for Chinese, Japanese, and English.
-- 三语优化：针对中英日混排优化字体，告别排版错位。
+  三语优化：针对中英日混排优化字体，告别排版错位。
